@@ -201,8 +201,9 @@ rabbitmq-server.bat
     -  The default password is guest.
 
 ### 5. Configure MongoDB
-Ensure MongoDB is installed and running on your machine. You can download and install MongoDB from [here](https://www.mongodb.com/try/download/community).
+Ensure MongoDB is installed and running on your machine. You can download and install MongoDB from [here](https://www.mongodb.com/try/download/community). 
 
+If you're using Docker Desktop, you can easily run MongoDB in a Docker container.
 
 ### 6. Run the Application
 ```bash
